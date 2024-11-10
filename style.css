@@ -4,13 +4,14 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+/* Utility */
 html,body{
     background-color: hsl(47, 88%, 63%);
     font-family: "Figtree", sans-serif;
     font-size: 16px;
 }
 
+/* Card container */
 .card{
     display: flex;
     flex-direction: column;
